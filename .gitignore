@@ -1,0 +1,5 @@
+*.pth
+*.png
+dataset/
+diagrammi/
+ambiente_ai/
